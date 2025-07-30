@@ -1,3 +1,4 @@
+workflows:
 name: privet18
 description: A simple adult WebView app with Telegram integration.
 publish_to: "none"
